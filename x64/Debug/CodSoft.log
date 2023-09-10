@@ -1,4 +1,1 @@
-﻿  TicTacToe.cpp
-C:\Users\zaina\Desktop\CodSoft\CodSoft\TicTacToe.cpp(229,7): warning C4101: 'choice': unreferenced local variable
-C:\Users\zaina\Desktop\CodSoft\CodSoft\TicTacToe.cpp(221): warning C4715: 'TicTac::Winner': not all control paths return a value
-  CodSoft.vcxproj -> C:\Users\zaina\Desktop\CodSoft\x64\Debug\CodSoft.exe
+﻿  CodSoft.vcxproj -> C:\Users\zaina\Desktop\CodSoft\x64\Debug\CodSoft.exe
